@@ -18,7 +18,8 @@ Please raise an issue/comment if you spot anything!
 4. At this point, you should restart your computer to make sure the changes have taken place.
 5. install [Starhips](https://starship.rs) and then add ```starship.toml``` to ```$HOME/.config/``` and reload your terminal.
 
-[Starship documentation](https://starship.rs/guide/#%F0%9F%9A%80-installation)
+More information: [Starship documentation](https://starship.rs/guide/#%F0%9F%9A%80-installation)
+
 ---
 [NerdFonts repository](https://github.com/ryanoasis/nerd-fonts)
 - Terminal Font: **FiraCode Nerd Font Mono**
