@@ -51,7 +51,7 @@ disabled = false
 show_always = true
 style_user = 'bg:#2C3E50'
 style_root = 'bg:#2C3E50'
-format = '[$user ]($style)'
+format = '[  $user ]($style)'
 disabled = false
 
 [hostname]
@@ -65,7 +65,9 @@ disabled = false
 # An alternative to the username module which displays a symbol that
 # represents the current operating system
 [os]
+symbol = ''
 style = 'bg:#2C3E50'
+format = '[ $symbol ]($style)'
 disabled = true  # disabled by default
 
 [directory]
